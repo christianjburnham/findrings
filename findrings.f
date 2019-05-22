@@ -1,7 +1,7 @@
 !********************************************************
 !**    FIND RINGS
 !**
-!**    ring recognition code
+!**    Ring recognition code
 !**    Christian J Burnham, UCD, 2019
 !**    @christianjburnham@gmail.com
 !********************************************************
